@@ -3,4 +3,4 @@ name=Heimdall For Android NDK
 version=v2.0.2
 versionCode=202
 author=JonesqPacMan™
-description= Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK & compressed by UPX
+description= Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK
